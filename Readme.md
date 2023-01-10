@@ -2,4 +2,6 @@
 
 ## Overview
 
-![Demo of the Chat Application](assets/demo.mp4)
+
+https://user-images.githubusercontent.com/1321179/211640969-32b64a0c-de69-4b5a-91b2-27b822bdba60.mp4
+
